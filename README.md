@@ -1,7 +1,7 @@
 ---
 description: >-
-  This guide explains how to use Linguo. Please go through it to acquaint
-  yourself with the platform!
+  This is a step-by-step guide that explains how to use Linguo. Please go
+  through it to acquaint yourself with the platform!
 ---
 
 # How to use Linguo
